@@ -1,4 +1,4 @@
-# Temperature TCP Server - Assignment
+# Multithreaded TCP Temperature Server in Java
 
 
 
